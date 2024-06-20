@@ -1,4 +1,5 @@
 # BOILERPLATE - Lucia auth
+🚧 WORK IN PROGRESS 🚧
 
 Stack : Lucia, drizzle, arctic, react, typescript, nextjs, tailwindcss
 Auth : Google, Reddit
