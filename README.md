@@ -4,6 +4,8 @@
 Stack : Lucia, drizzle, arctic, react, typescript, nextjs, tailwindcss
 Auth : Google, Reddit
 
+Feel free to PR if you see a problem in my code ! 
+
 ## Installation
 
 ```bash
